@@ -28,9 +28,6 @@ Overview
 <img src="https://i.ibb.co/VgFPwqw/Screen-Shot-2023-01-25-at-8-09-29-PM.png" alt="Screen-Shot-2023-01-25-at-8-09-29-PM" border="0">
 </p>
 <p>
-
-</p>
-<br />
 Create a resource group in Microsoft Azure.
 <p>
 <img src="https://i.ibb.co/Fg1RCWd/Screen-Shot-2023-01-25-at-8-26-12-PM.png" alt="Screen-Shot-2023-01-25-at-8-26-12-PM" border="0">
@@ -38,7 +35,6 @@ Create a resource group in Microsoft Azure.
 Create a virtual machine in Azure.
 <img src="https://i.ibb.co/YP8fttX/Screen-Shot-2023-01-25-at-8-36-31-PM.png" alt="Screen-Shot-2023-01-25-at-8-36-31-PM" border="0">
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open Remote Desktop or Microsoft Remote Desktop for MAC
 </p>
-<br />
+<img src="https://i.ibb.co/0fbdCG6/Screen-Shot-2023-01-25-at-8-41-53-PM.png" alt="Screen-Shot-2023-01-25-at-8-41-53-PM" border="0">
