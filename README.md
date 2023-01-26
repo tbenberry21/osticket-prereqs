@@ -38,3 +38,9 @@ Create a virtual machine in Azure.
 Open Remote Desktop or Microsoft Remote Desktop for MAC
 </p>
 <img src="https://i.ibb.co/0fbdCG6/Screen-Shot-2023-01-25-at-8-41-53-PM.png" alt="Screen-Shot-2023-01-25-at-8-41-53-PM" border="0">
+</p>
+Turn on IIS (Internet Information Services). Control Pannel - Programs and Feautures
+<img src="https://i.ibb.co/vBqB9dG/Screen-Shot-2023-01-25-at-8-46-49-PM.png" alt="Screen-Shot-2023-01-25-at-8-46-49-PM" border="0">
+</p>
+Install Microsoft Web Platform Installer. Add (MySQL 5.5) - Add All Simple Versions Of X86PHP Until 7.3
+<img src="https://i.ibb.co/QMRKng6/Screen-Shot-2023-01-26-at-10-19-49-AM.png" alt="Screen-Shot-2023-01-26-at-10-19-49-AM" border="0">
