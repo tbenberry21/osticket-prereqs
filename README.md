@@ -46,3 +46,26 @@ Turn on IIS (Internet Information Services). Control Pannel - Programs and Feaut
 Install Microsoft Web Platform Installer. Add (MySQL 5.5) - Add All Simple Versions Of X86PHP Until 7.3
 <img src="https://i.ibb.co/QMRKng6/Screen-Shot-2023-01-26-at-10-19-49-AM.png" alt="Screen-Shot-2023-01-26-at-10-19-49-AM" border="0">
 </p>
+Install osTicket v1.15.8.
+</p>
+<img src="https://i.ibb.co/k4LW5M5/Screen-Shot-2023-01-25-at-8-55-20-PM.png" alt="Screen-Shot-2023-01-25-at-8-55-20-PM" border="0">
+</p>
+Go to IIS, Sites/Default/osTicket, click PHP Manager, enable PHP_imap.dll, enable PHP_intl.dll, enable PHP_opcache.dll
+</p>
+<img src="https://i.ibb.co/HXh8gm5/Screen-Shot-2023-01-26-at-10-36-08-AM.png" alt="Screen-Shot-2023-01-26-at-10-36-08-AM" border="0">
+</p>
+Go to c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php rename the file to c:\inetpub\wwwroot\osTicket\include\ost-config.php Assign permissions to ost-config.php Disable inheritance->Removeall New Permissions->Everyone->all
+</p>
+<img src="https://i.ibb.co/Wp99qLh/Screen-Shot-2023-01-26-at-10-43-47-AM.png" alt="Screen-Shot-2023-01-26-at-10-43-47-AM" border="0">
+</p>
+Continue setting up osTicket. Name Helpdesk and give default email.
+</p>
+<img src="https://i.ibb.co/Kzr7PrD/Screen-Shot-2023-01-26-at-10-50-03-AM.png" alt="Screen-Shot-2023-01-26-at-10-50-03-AM" border="0">
+</p>
+Download and install HeidiSQL
+</p>
+<img src="https://i.ibb.co/sWRt0DC/Screen-Shot-2023-01-26-at-10-53-43-AM.png" alt="Screen-Shot-2023-01-26-at-10-53-43-AM" border="0">
+</p>
+osTicket is now ready
+</p>
+<img src="https://i.ibb.co/xST0MFB/Screen-Shot-2023-01-26-at-10-55-28-AM.png" alt="Screen-Shot-2023-01-26-at-10-55-28-AM" border="0">
